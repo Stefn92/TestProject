@@ -1,1 +1,1 @@
-Dieses Projekt ist zum Testen und Lernen von Java gedacht
+Dieses Projekt ist zum Testen und Lernen von Java gedacht.
