@@ -1,0 +1,1 @@
+Dieses Projekt ist zum Testen und Lernen von Java gedacht
